@@ -1,0 +1,11 @@
+@font-face {
+    font-family: TB;
+    src: url(../font/TAHOMAB0.woff);
+    font-weight: 7 00;
+}
+
+@font-face {
+    font-family: 'TT', sans-serif;
+    src: url(../font/Tahoma_Regular_font.woff);
+    font-weight: 400;
+}
